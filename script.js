@@ -11,13 +11,15 @@ const perguntas = [
             {
                 texto: "Isso é assustador!",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer."
+                    "No início ficou com medo do que essa tecnologia pode fazer.",
+                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando"
                 ]
             },
             {
                 texto: "Isso é maravilhoso!",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia."
+                    "Quis saber como usar IA no seu dia a dia.",
+                    "pensou que essa nova tecnologia pode ajudar em várias tarefas do seu dia a dia"
                 ]
             }           
 
@@ -29,13 +31,16 @@ const perguntas = [
             {
                 texto:"Utilizar uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis."
+                    "Conseguiu utilizar a IA para buscar informações úteis.",
+                    "Afirmação2"
                 ]
             },
             {
                 texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
                 afirmacao: [
-                    "afirmacao"
+                    "afirmacao",
+                    "afirmação2"
+
                 ]
             }
         ]
@@ -46,13 +51,17 @@ const perguntas = [
             {
                 texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
                 afirmacao: [
-                    "afirmacao"
+                    "afirmacao",
+                    "afirmação2"
+
                 ]
             },
             {
                 texto:"Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
                 afirmacao: [
-                    "afirmacao"
+                    "afirmacao",
+                    "afirmação2"
+
                 ]
             }
 
@@ -64,13 +73,15 @@ const perguntas = [
             {
                 texto:"Criar uma imagem utilizando uma plataforma de design como o Paint.",
                 afirmacao: [
-                    "afirmacao"
+                    "afirmacao",
+                    "afirmação 2"
                 ]
             },
             {
                 texto:"Criar uma imagem utilizando um gerador de imagem de IA.",
                 afirmacao: [
-                    "afirmacao"
+                    "afirmacao",
+                    "afirmação2"
                 ]
             }
 
@@ -82,13 +93,15 @@ const perguntas = [
             {
                 texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
                 afirmacao: [
-                    "afirmacao"
+                    "afirmacao",
+                    "afirmação2"
                 ]
             },
             {
                 texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
                 afirmacao: [
-                    "afirmacao"
+                    "afirmacao",
+                    "afirmação2"
                 ]
             }
 
