@@ -128,4 +128,8 @@ function mostraResultado() {
     caixaAlternativas.textContent = "";
 }
 
+function aleatorio (lista){
+    const posicao = math floor(math.random()* lista.lenght)
+    
+
 mostraPergunta();
